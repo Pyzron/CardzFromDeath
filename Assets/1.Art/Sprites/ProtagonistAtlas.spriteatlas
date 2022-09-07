@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ProtagonistAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 48c053a6c745fc44589344ce0d80f988, type: 3}
+    - {fileID: 2800000, guid: 47a8ffad32fd8be4fa393bd1a7abcefa, type: 3}
+    - {fileID: 2800000, guid: cbef34bc09b1c364eb5171a3f7a90ea3, type: 3}
+    - {fileID: 2800000, guid: 19962d5495913af4bbe39a166721f429, type: 3}
+    - {fileID: 2800000, guid: bc4ae1b91c65cf947836122d036abf7f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -520491782, guid: 19962d5495913af4bbe39a166721f429, type: 3}
+  - {fileID: 1335606279, guid: 19962d5495913af4bbe39a166721f429, type: 3}
+  - {fileID: 1226185976, guid: 19962d5495913af4bbe39a166721f429, type: 3}
+  - {fileID: -109233112, guid: 19962d5495913af4bbe39a166721f429, type: 3}
+  - {fileID: 752227257, guid: 48c053a6c745fc44589344ce0d80f988, type: 3}
+  - {fileID: -457756909, guid: 48c053a6c745fc44589344ce0d80f988, type: 3}
+  - {fileID: -1756246387, guid: 48c053a6c745fc44589344ce0d80f988, type: 3}
+  - {fileID: 2016579907, guid: 48c053a6c745fc44589344ce0d80f988, type: 3}
+  - {fileID: -981507541, guid: 48c053a6c745fc44589344ce0d80f988, type: 3}
+  - {fileID: 481794718, guid: bc4ae1b91c65cf947836122d036abf7f, type: 3}
+  - {fileID: -1793664991, guid: bc4ae1b91c65cf947836122d036abf7f, type: 3}
+  - {fileID: 1825317099, guid: bc4ae1b91c65cf947836122d036abf7f, type: 3}
+  - {fileID: 381063366, guid: bc4ae1b91c65cf947836122d036abf7f, type: 3}
+  - {fileID: 61261823, guid: bc4ae1b91c65cf947836122d036abf7f, type: 3}
+  - {fileID: -1773750553, guid: cbef34bc09b1c364eb5171a3f7a90ea3, type: 3}
+  - {fileID: 1103118629, guid: cbef34bc09b1c364eb5171a3f7a90ea3, type: 3}
+  - {fileID: -362472144, guid: cbef34bc09b1c364eb5171a3f7a90ea3, type: 3}
+  - {fileID: 1217522138, guid: cbef34bc09b1c364eb5171a3f7a90ea3, type: 3}
+  - {fileID: -1505429979, guid: 47a8ffad32fd8be4fa393bd1a7abcefa, type: 3}
+  - {fileID: -1684932555, guid: 47a8ffad32fd8be4fa393bd1a7abcefa, type: 3}
+  - {fileID: -1552222692, guid: 47a8ffad32fd8be4fa393bd1a7abcefa, type: 3}
+  - {fileID: 418763821, guid: 47a8ffad32fd8be4fa393bd1a7abcefa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Protagonist-Run_0
+  - Protagonist-Run_1
+  - Protagonist-Run_2
+  - Protagonist-Run_3
+  - Protagonist-Dash_3
+  - Protagonist-Dash_2
+  - Protagonist-Dash_1
+  - Protagonist-Dash_0
+  - Protagonist-Dash_4
+  - Protagonist-Jump_3
+  - Protagonist-Jump_2
+  - Protagonist-Jump_1
+  - Protagonist-Jump_0
+  - Protagonist-Jump_4
+  - Protagonist-Idle_1
+  - Protagonist-Idle_0
+  - Protagonist-Idle_3
+  - Protagonist-Idle_2
+  - Protagonist-SelectCard_1
+  - Protagonist-SelectCard_0
+  - Protagonist-SelectCard_3
+  - Protagonist-SelectCard_2
+  m_RenderDataMap: {}
+  m_Tag: ProtagonistAtlas
+  m_IsVariant: 0
